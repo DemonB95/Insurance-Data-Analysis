@@ -50,7 +50,7 @@ This repository contains a Power BI dashboard that analyzes insurance data inclu
 
 **Anit Singh**  
 📧 anitsingh0095@gmail.com 
-[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anit-singh-4061661b9/)]
+[https://linkedin.com/in/anit-singh-4061661b9/]
 
 ---
 
