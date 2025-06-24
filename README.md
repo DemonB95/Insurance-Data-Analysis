@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30c0f0a3-41ff-4f82-bb20-0b6d3f795b73)# Insurance-Data-Analysis
+
 
 # 📊 Insurance Data Analysis – Power BI Dashboard
 
@@ -27,8 +27,8 @@ This repository contains a Power BI dashboard that analyzes insurance data inclu
 
 ## 📌 Dashboard Highlights
 
-- Total Premium Amount: **₹2.99M**
-- Total Claim Amount: **₹8.41M**
+- Total Premium Amount: **₹5.98M**
+- Total Claim Amount: **₹16.91M**
 - Count of Active vs Inactive Policies
 - Claims grouped by policy type and status
 - Age-wise claim breakdown
@@ -49,8 +49,8 @@ This repository contains a Power BI dashboard that analyzes insurance data inclu
 ## 📌 Author
 
 **Anit Singh**  
-📧 your.email@example.com  
-[LinkedIn](https://linkedin.com/in/yourprofile) *(optional)*
+📧 anitsingh0095@gmail.com 
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anit-singh-4061661b9/)) *(optional)*
 
 ---
 
